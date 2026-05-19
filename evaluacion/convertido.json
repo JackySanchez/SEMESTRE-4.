@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "nombre": "Juan",
+        "edad": "20",
+        "ciudad": "Lerdo",
+        "correo": "juan@gmail.com"
+    },
+    {
+        "id": "2",
+        "nombre": "Ana",
+        "edad": "22",
+        "ciudad": "Torreon",
+        "correo": "ana@gmail.com"
+    },
+    {
+        "id": "3",
+        "nombre": "Carlos",
+        "edad": "19",
+        "ciudad": "Gomez Palacio",
+        "correo": "carlos@gmail.com"
+    },
+    {
+        "id": "4",
+        "nombre": "Sofia",
+        "edad": "21",
+        "ciudad": "Durango",
+        "correo": "sofia@gmail.com"
+    },
+    {
+        "id": "5",
+        "nombre": "Pedro",
+        "edad": "23",
+        "ciudad": "Monterrey",
+        "correo": "pedro@gmail.com"
+    }
+]
